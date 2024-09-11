@@ -1,1 +1,1 @@
-{"4808": []}
+{"4808": ["User7240 has joined the room."]}
