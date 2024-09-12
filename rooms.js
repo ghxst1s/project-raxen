@@ -1,1 +1,1 @@
-{"staff": [], "private": [], "2395": ["kqrma: yooo", "mxx_xx3: sigma", "mxx_xx3: wsg", "mxx_xx3: works good? right", "kqrma: :O", "kqrma: no...", "kqrma: sometimes it sends 2 times", "kqrma: check discord", "mxx_xx3: ok"]}
+{"staff": [], "private": [], "2395": ["kqrma: yooo", "mxx_xx3: sigma", "mxx_xx3: wsg", "mxx_xx3: works good? right", "kqrma: :O", "kqrma: no...", "kqrma: sometimes it sends 2 times", "kqrma: check discord", "mxx_xx3: ok", "mxx_xx3: sometimes i gotta fix it idk why its doing that"]}
