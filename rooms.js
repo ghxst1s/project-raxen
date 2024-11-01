@@ -35,7 +35,8 @@
     "password": "xx",
     "messages": [
       "asdasd",
-      "aaaaa"
+      "aaaaa",
+      "aaa"
     ]
   },
   {
