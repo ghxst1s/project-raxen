@@ -33,7 +33,9 @@
   {
     "username": "123",
     "password": "xx",
-    "messages": []
+    "messages": [
+      "asdasd"
+    ]
   },
   {
     "username": "123",
