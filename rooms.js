@@ -17,7 +17,9 @@
   {
     "username": "dasd",
     "password": "x",
-    "messages": []
+    "messages": [
+      "OHA \u00c7AI\u015eTI"
+    ]
   },
   {
     "username": "\u0131o\u0131o",
