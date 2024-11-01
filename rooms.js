@@ -18,5 +18,10 @@
     "username": "dasd",
     "password": "x",
     "messages": []
+  },
+  {
+    "username": "\u0131o\u0131o",
+    "password": "12313",
+    "messages": []
   }
 ]
