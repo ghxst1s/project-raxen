@@ -34,7 +34,8 @@
     "username": "123",
     "password": "xx",
     "messages": [
-      "asdasd"
+      "asdasd",
+      "aaaaa"
     ]
   },
   {
