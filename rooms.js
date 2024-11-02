@@ -47,7 +47,9 @@
   {
     "username": "mostafa12",
     "password": "x112123",
-    "messages": []
+    "messages": [
+      "asdadasda"
+    ]
   },
   {
     "username": "mostafa13",
